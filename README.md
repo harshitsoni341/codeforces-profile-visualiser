@@ -1,1 +1,1 @@
-# codeforces-profile-visualiser
+Codeforces Visualiser
